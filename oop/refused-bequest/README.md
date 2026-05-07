@@ -22,7 +22,7 @@ Ocurre cuando una subclase hereda de una clase padre pero no utiliza la mayoria 
 
 ## Mal ejemplo
 
-En bad-example.java una clase `Ostrich` (Avestruz) hereda de `Bird` (Ave), pero tiene que lanzar una excepcion en el metodo `fly()` porque no puede volar.
+En bad-example.java una clase `Penguin` (Pinguino) hereda de `Bird` (Ave), pero tiene que lanzar una excepcion en el metodo `fly()` porque no puede volar.
 
 ## Buen ejemplo
 
