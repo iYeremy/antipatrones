@@ -2,7 +2,7 @@
 
 ## Tipo
 
-OOP
+Desarrollo
 
 ## Descripcion
 
